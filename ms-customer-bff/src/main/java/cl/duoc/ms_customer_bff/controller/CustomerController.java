@@ -11,7 +11,6 @@ import cl.duoc.ms_customer_bff.service.CustomerService;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 
-
 @RestController
 @CrossOrigin("*")
 public class CustomerController {
